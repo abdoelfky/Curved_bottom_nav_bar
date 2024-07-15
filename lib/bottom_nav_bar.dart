@@ -41,7 +41,7 @@ class _BottomBarWithNormalStyleState extends State<BottomBarWithNormalStyle> {
       ),
       TabData(
         iconData: Icons.settings,
-        title: "   Settings ",
+        title: "   Settings   ",
         tabColor: Colors.teal,
         tabGradient: getGradient(Colors.teal),
       ),
